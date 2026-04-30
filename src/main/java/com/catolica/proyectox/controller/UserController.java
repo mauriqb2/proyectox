@@ -17,7 +17,7 @@ public class UserController {
                 new User(8016341, "Ruperto", "Mamani", 87),
                 new User(8016324, "Filemona", "Mamani", 87),
                 new User(8016334, "Ramses", "Mamani", 87),
-                new User(8016323, "Fernando", "Mamani", 87)
+                new User(8016323, "Felipe", "Mamani", 87)
         );
     }
 }
